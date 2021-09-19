@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: pkvpraveen/portfolionext
   branch: master
 media_folder: public/images
 public_folder: /images
